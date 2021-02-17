@@ -1,7 +1,7 @@
 #Игнорируем не нужные файлы
 
 .*
-i.gitignore
+!.gitignore
 
 node_modules/
 
